@@ -1,0 +1,21 @@
+
+
+
+
+
+User Story:
+
+As a student who wants to attend university, I want to know the confirmed cases in each country to be safer.
+
+Description:
+
+If everything goes right, the student should immediately see the total confirmed cases per country once they input the 2 letter abbreviation and pressing a button.
+
+Since our website does not require inputs from the student, the number of errors should be approximately zero. An error might happen only if the website is crashed.If the student wants to share their findings about coronavirus information, please refer to the Sharing Information User Story as all information related to this topic are documented there.
+
+If a student wants to know about corona virus cases worldwide, please refer to Corona stats global User-Story.
+
+If a student wants to know about corona virus cases by state, please refer to the Corona stats by state User-Story.
+
+
+If the student wants to share what he/she finds, please refer to the Sharing Information User Story.
